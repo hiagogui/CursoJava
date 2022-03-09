@@ -20,9 +20,9 @@ public class Exercice1_ScannerAndPrintAstory {
 		//Now the story begging with some concatenations
 		System.out.println("\n\n\nHere is the story:");
 		System.out.println("Once upon a time there was a boy called "+name+".");
-		//System.out.println("And he was a "+job+"...");
+		System.out.println("And he was a "+job+"...");
 		//Outra forma de fazer o comando de cima
-		System.out.printf("And he was a %s...",job);
+		//System.out.printf("And he was a %s...",job);
 		System.out.println("On his way to work, "+name+" reflected on life!");
 		System.out.println("Perhaps "+name+" will not be an "+job+" forever.");
 		
